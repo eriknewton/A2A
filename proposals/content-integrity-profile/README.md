@@ -14,7 +14,7 @@ The Content Integrity Profile spec text itself has not landed in this repository
 
 This directory mirrors the retention layout established in `eriknewton/concordia-protocol#212`, which the #1140 thread named as the reusable pattern:
 
-```
+```text
 proposals/content-integrity-profile/
 ├── README.md                              (this file)
 └── vectors/jcs_edge_v1/

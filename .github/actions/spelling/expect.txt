@@ -1,6 +1,5 @@
 Abhimanyu
 algovoi
-AlgoVoi
 chopmob
 concordia
 eriknewton
@@ -8,8 +7,8 @@ jcs
 kuangmi
 lfx
 luma
-noorle
 Noorle
+noorle
 Petschulat
 SFDC
 Siwach
